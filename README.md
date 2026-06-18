@@ -1,6 +1,6 @@
 **I am Sujal Ojha**
 # 💫 About Me:
-## About Me :<br><br>🔭 I’m currently working on:<br>- Network Intrusion Detection System (NIDS)<br><br><br>👯 I’m looking to collaborate on:<br>- Cybersecurity Projects<br>- Open Source Security Tools<br>- DevSecOps & Cloud Security Projects<br><br>🤝 I’m looking for help with:<br>- Advanced Threat Detection<br>- SIEM & SOC Automation<br>- Docker & Kubernetes Security<br><br>🌱 I’m currently learning:<br>- DevSecOps<br>- SOC Operations & Threat Hunting<br><br><br>💬 Ask me about:<br>- Burp Suite<br>- Nmap<br>- Wireshark<br>- VAPT<br>- Network Security Projects<br><br>⚡ Fun fact:<br>- I enjoy building security projects and simulating real-world cyber attacks in lab environments.
+## I’m currently working on:<br>- Network Intrusion Detection System (NIDS)<br><br><br>👯 I’m looking to collaborate on:<br>- Cybersecurity Projects<br>- Open Source Security Tools<br>- DevSecOps & Cloud Security Projects<br><br>🤝 I’m looking for help with:<br>- Advanced Threat Detection<br>- SIEM & SOC Automation<br>- Docker & Kubernetes Security<br><br>🌱 I’m currently learning:<br>- DevSecOps<br>- SOC Operations & Threat Hunting<br><br><br>💬 Ask me about:<br>- Burp Suite<br>- Nmap<br>- Wireshark<br>- VAPT<br>- Network Security Projects<br><br>⚡ Fun fact:<br>- I enjoy building security projects and simulating real-world cyber attacks in lab environments.
 
 
 ## 🌐 Socials:

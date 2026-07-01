@@ -1,6 +1,25 @@
-**I am Sujal Ojha**
-# 💫 About Me:
-## I’m currently working on:<br>- Network Intrusion Detection System (NIDS)<br><br><br>👯 I’m looking to collaborate on:<br>- Cybersecurity Projects<br>- Open Source Security Tools<br>- DevSecOps & Cloud Security Projects<br><br>🤝 I’m looking for help with:<br>- Advanced Threat Detection<br>- SIEM & SOC Automation<br>- Docker & Kubernetes Security<br><br>🌱 I’m currently learning:<br>- DevSecOps<br>- SOC Operations & Threat Hunting<br><br><br>💬 Ask me about:<br>- Burp Suite<br>- Nmap<br>- Wireshark<br>- VAPT<br>- Network Security Projects<br><br>⚡ Fun fact:<br>- I enjoy building security projects and simulating real-world cyber attacks in lab environments.
+##👋 **Hi, I'm Sujal Ojha**
+
+I'm a final-year student of Cyber Security and Digital Forensics at the University of the West of England with a strong interest in Cybersecurity, Network Security, AI, and Ethical Hacking. I enjoy building practical security projects, exploring new technologies, and continuously improving my skills through hands-on learning.
+
+**🔐 What I'm Working On**
+Building cybersecurity projects and security tools
+Learning Vulnerability Assessment & Penetration Testing (VAPT)
+Practicing SOC and threat detection techniques
+
+**🚀 Current Projects**
+
+1. API Sentinel AI (v1.4.0)
+
+Description: An intelligent security portal designed for API misconfiguration detection and threat assessment. This platform likely scans API endpoints and configurations to identify vulnerabilities (such as improper authentication, exposed sensitive data, broken access controls, or misconfigured CORS/rate-limiting policies). By leveraging AI, it probably automates the risk-scoring process, flags anomalies, and provides actionable remediation insights to harden API security before exploitation occurs.
+2. Network Intrusion Detection System (NIDS)
+
+Description: A robust, multi-layered network security monitoring system built using industry-standard open-source tools:
+Suricata: Acting as the core IDS/IPS engine, inspecting network traffic in real-time using signature-based detection to identify malicious payloads and intrusion attempts.
+Zeek: Used for deep network traffic analysis and logging, providing rich, high-fidelity data on network sessions and protocols (e.g., DNS, HTTP, SSL) for behavioral analysis.
+Fluent Bit: Serving as the lightweight log processor and forwarder, efficiently collecting logs from Suricata and Zeek and shipping them to the storage/analysis backend.
+OpenSearch: Functioning as the central dashboard and analytics engine, used to visualize logs, create alerts, and enable threat hunting through indexed search capabilities on the collected network data.
+
 
 
 ## 🌐 Socials:

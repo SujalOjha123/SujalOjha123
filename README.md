@@ -1,6 +1,6 @@
 ##👋 **Hi, I'm Sujal Ojha**
 
-I'm a final-year student of Cyber Security and Digital Forensics at the University of the West of England with a strong interest in Cybersecurity, Network Security, AI, and Ethical Hacking. I enjoy building practical security projects, exploring new technologies, and continuously improving my skills through hands-on learning.
+I'm recent graduate in Cyber Security and Digital Forensics at the University of the West of England with a strong interest in Cybersecurity, Network Security, AI, and Ethical Hacking. I enjoy building practical security projects, exploring new technologies, and continuously improving my skills through hands-on learning.
 
 **🔐 What I'm Working On**
 Building cybersecurity projects and security tools

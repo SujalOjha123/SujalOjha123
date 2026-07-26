@@ -13,12 +13,7 @@ Practicing SOC and threat detection techniques
 
 Description: An intelligent security portal designed for API misconfiguration detection and threat assessment. This platform likely scans API endpoints and configurations to identify vulnerabilities (such as improper authentication, exposed sensitive data, broken access controls, or misconfigured CORS/rate-limiting policies). By leveraging AI, it probably automates the risk-scoring process, flags anomalies, and provides actionable remediation insights to harden API security before exploitation occurs.
 
-2. Network Intrusion Detection System (NIDS)
-Description: A robust, multi-layered network security monitoring system built using industry-standard open-source tools:
-Suricata: Acting as the core IDS/IPS engine, inspecting network traffic in real-time using signature-based detection to identify malicious payloads and intrusion attempts.
-Zeek: Used for deep network traffic analysis and logging, providing rich, high-fidelity data on network sessions and protocols (e.g., DNS, HTTP, SSL) for behavioral analysis.
-Fluent Bit: Serving as the lightweight log processor and forwarder, efficiently collecting logs from Suricata and Zeek and shipping them to the storage/analysis backend.
-OpenSearch: Functioning as the central dashboard and analytics engine, used to visualize logs, create alerts, and enable threat hunting through indexed search capabilities on the collected network data.
+
 
 
 

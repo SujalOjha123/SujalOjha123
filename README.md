@@ -7,7 +7,7 @@ Building cybersecurity projects and security tools
 Learning Vulnerability Assessment & Penetration Testing (VAPT)
 
 
-**🚀 Current Projects**
+
 
 
 ## 🌐 Socials:
